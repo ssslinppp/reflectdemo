@@ -12,14 +12,6 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;
 import java.util.Set;
 
-/**
- * Description：<br/>
- * User: liulin <br/>
- * Date: 2017/9/22 <br/>
- * Time: 9:45 <br/>
- * Email: liulin@cmss.chinamobile.com <br/>
- * To change this template use File | Settings | File Templates.
- */
 @Component
 public class ReflectDemo implements CommandLineRunner {
     /**
